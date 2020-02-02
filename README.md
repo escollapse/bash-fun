@@ -5,5 +5,5 @@ a collection of bash scripts and/or one-liners that have helped me at some point
 determine disk usage by folder, organized hi -> lo, saved to a file called 'diskusage.txt'
 
 ## gadgetOrganizer.sh
-###requires: capstone, ropgadget
+*requires: capstone, ropgadget*
 sort ROP gadgets in a binary by address
