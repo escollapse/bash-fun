@@ -7,4 +7,4 @@ determine disk usage by folder, organized hi -> lo, saved to a file called 'disk
 ## gadgetOrganizer.sh
 *requires: capstone, ropgadget*
 
-**sort ROP gadgets in a binary by address**
+sort ROP gadgets in a binary by address
